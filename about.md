@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <h2>About Me</h2>
-<p>Physics is fun,<br>if it is learnt in a nice way.</p>
-<img src="profilepic.jpeg" alt="ProfilePic" style="width:200px">
+<p>My motto? You do you.</p>
+<img src="https://github.com/yichen96/yichen96.github.io/blob/main/profilepic.jpeg" alt="ProfilePic" style="border-radius: 50%">
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
