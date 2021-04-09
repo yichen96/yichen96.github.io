@@ -6,6 +6,7 @@ permalink: /about/
 
 <h2>About Me</h2>
 <p>Physics is fun,<br>if it is learnt in a nice way.</p>
+<img src="profilepic.jpeg" alt="ProfilePic" style="width:200px">
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
